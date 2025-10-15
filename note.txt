@@ -1,5 +1,3 @@
 - Git rất mạnh mẽ
 - Giúp quản lý phiên bản dễ dàng
 - Hỗ trợ làm việc nhóm hiệu quả
-- Dễ dàng khôi phục lỗi
-- Miễn phí và phổ biến
