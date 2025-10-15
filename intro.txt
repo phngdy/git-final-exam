@@ -14,3 +14,11 @@ Kỹ năng:
 1. Sử dụng Git & GitHub
 2. Lập trình Python và HTML
 3. Làm việc nhóm và giao tiếp tốt
+
+
+Kế hoạch học tập:
+1. Ôn tập lại toàn bộ kiến thức Git đã học.
+2. Tìm hiểu sâu hơn về cách làm việc với branch và merge.
+3. Thực hành xử lý conflict trong nhóm.
+4. Học cách sử dụng GitHub cho dự án thực tế.
+5. Tổng kết kiến thức bằng việc làm bài kiểm tra cuối kỳ.
