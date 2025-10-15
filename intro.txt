@@ -1,9 +1,9 @@
 Giới thiệu cá nhân:
-<<<<<<< HEAD
+
 Hello, this is Nguyễn Bình Phương Duy
-=======
+
 Xin chào, tôi là Nguyễn Bình Phương Duy
->>>>>>> feature-update
+
 Mình yêu thích lập trình và khám phá công nghệ mới.
 Hiện tại mình đang học về Git, GitHub và cách làm việc nhóm hiệu quả.
 Mục tiêu của mình là trở thành lập trình viên chuyên nghiệp, có thể tạo ra sản phẩm hữu ích.
@@ -26,3 +26,4 @@ Kế hoạch học tập:
 3. Thực hành xử lý conflict trong nhóm.
 4. Học cách sử dụng GitHub cho dự án thực tế.
 5. Tổng kết kiến thức bằng việc làm bài kiểm tra cuối kỳ.
+Conflict resolved on 15/10/2025
