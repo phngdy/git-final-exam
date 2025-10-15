@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Xin chào mọi người, mình là Nguyễn Bình Phương Duy, sinh viên ngành Công nghệ Thông tin.
+Mình yêu thích lập trình và khám phá công nghệ mới.
+Hiện tại mình đang học về Git, GitHub và cách làm việc nhóm hiệu quả.
+Mục tiêu của mình là trở thành lập trình viên chuyên nghiệp, có thể tạo ra sản phẩm hữu ích.
+Rất mong được học hỏi và hợp tác với mọi người trong dự án này!
+
+Sở thích:
+1. Lập trình và học ngôn ngữ mới
+2. Nghe nhạc và chơi game
+3. Xem phim và đi du lịch
+
+Kỹ năng:
+1. Sử dụng Git & GitHub
+2. Lập trình Python và HTML
+3. Làm việc nhóm và giao tiếp tốt
