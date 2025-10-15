@@ -10,3 +10,6 @@ Chủ nhật: Nghỉ ngơi và xem lại các commit đã làm.
 
 Ngày bắt đầu: 15/10/2025
 Ngày kết thúc: 21/10/2025
+- Thêm tính năng mới
+- Cập nhật giao diện
+- Tối ưu hiệu năng
