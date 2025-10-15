@@ -1,0 +1,7 @@
+Tính năng mới: Hệ thống chấm điểm tự động cho bài tập Git.
+
+1. Tự động kiểm tra các file bắt buộc trong repo.
+2. Đánh giá đúng cú pháp commit message.
+3. Kiểm tra xem các branch đã được merge đúng chưa.
+4. Báo cáo kết quả trực tiếp lên GitHub.
+5. Hỗ trợ giảng viên theo dõi tiến độ từng sinh viên.
